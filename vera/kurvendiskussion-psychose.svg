@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="kurvendiskussion-psychose.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4681257"
+     inkscape:cx="592.93288"
+     inkscape:cy="574.88266"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker16939"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16937" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16637" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16640" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16646" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16649" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16652" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.59695;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect20246"
+       width="259.60815"
+       height="145.37286"
+       x="18.695923"
+       y="32.313568"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.586593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 37.024971,42.541769 0,130.666741"
+       id="path869"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.586593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16939)"
+       d="M 29.033929,163.88563 H 230.14181"
+       id="path871"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <path
+       style="fill:#808000;stroke:#808000;stroke-width:1.17319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.17319, 1.17319;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 28.900751,92.765358 H 230.00862"
+       id="path871-7"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.25792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25792, 1.25792;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 29.966224,66.927655 H 261.17369"
+       id="path871-7-5"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.17319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.17319, 1.17319;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 28.700915,136.59158 H 229.80878"
+       id="path871-7-3"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.17319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 36.758602,162.82016 C 47.25236,146.84409 47.773927,131.69903 71.652819,114.60753 94.643131,106.14507 117.61139,97.903108 140.10941,94.363564 l 82.04136,-23.174021"
+       id="path1119"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.17319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 140.10941,94.363564 c 0,0 22.20098,12.468606 22.67186,12.280256 0.47088,-0.18835 24.76811,-19.776814 24.76811,-19.776814 10.83232,3.127693 14.67841,12.166812 19.21177,20.624394 l 21.84867,-12.148616"
+       id="path1364"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.82121px;line-height:1.25;font-family:sans-serif;fill:#808000;fill-opacity:1;stroke:none;stroke-width:1.17319;stroke-miterlimit:4;stroke-dasharray:none"
+       x="45.828121"
+       y="87.999725"
+       id="text9124"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan9122"
+         style="fill:#808000;stroke-width:1.17319;stroke-miterlimit:4;stroke-dasharray:none;stroke:none"
+         x="45.828121"
+         y="87.999725">Psychotischer Bereich</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.82121px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.17319;stroke-miterlimit:4;stroke-dasharray:none"
+       x="45.89785"
+       y="63.133713"
+       id="text9124-0"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan9122-0"
+         style="fill:#ff0000;stroke-width:1.17319;stroke-miterlimit:4;stroke-dasharray:none"
+         x="45.89785"
+         y="63.133713">Bereich wo man zwangsweise eingeliefert wird</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.82121px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.17319;stroke-miterlimit:4;stroke-dasharray:none"
+       x="112.49292"
+       y="119.14455"
+       id="text9124-1"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan9122-4"
+         style="fill:#008000;fill-opacity:1;stroke-width:1.17319;stroke-miterlimit:4;stroke-dasharray:none"
+         x="112.49292"
+         y="119.14455">Gesunder Bereich</tspan></text>
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1.17319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36.758602,162.82016 26.385171,-38.47137 32.019611,20.34187 29.751276,8.89997 28.18754,-9.70348 23.29855,11.71027 29.13612,-11.09511 23.16713,12.61949"
+       id="path10014"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.17319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 140.10941,94.363564 241.862,65.595814"
+       id="path10201"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.82121px;line-height:1.25;font-family:sans-serif;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.195531"
+       x="46.84338"
+       y="158.00809"
+       id="text13404"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan13402"
+         style="fill:#ff6600;fill-opacity:1;stroke-width:0.195531"
+         x="46.84338"
+         y="158.00809">Zombi Bereich</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.89717px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:0.122429"
+       x="194.46039"
+       y="87.327217"
+       id="text18426"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan18424"
+         style="stroke-width:0.122429;stroke:#008000;fill:#00ff00"
+         x="194.46039"
+         y="87.327217">Open Dialog Intervention</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.36871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 180.10952,92.894226 7.50645,-6.093813 c 4.53039,1.207165 7.33857,3.495882 10.06534,6.238421"
+       id="path19531"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <path
+       style="fill:none;stroke:#800080;stroke-width:1.47803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 241.862,65.595814 c 1.5267,-6.89114 22.18321,-14.669088 20.26774,23.34632 l -0.5565,68.550656 c -1.92454,10.70211 -8.65104,14.85608 -18.3794,14.91662 L 55.670736,172.14304 c -9.298213,-1.53705 -9.037585,-5.50463 -10.921091,-11.7202"
+       id="path5367"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137149"
+       x="47.132599"
+       y="161.78979"
+       id="text9059"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan9057"
+         style="font-size:3.52778px;stroke-width:0.137149"
+         x="47.132599"
+         y="161.78979">extrapyramidal-motorische Nebenwirkungen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="219.68628"
+       y="50.100727"
+       id="text14450"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan14448"
+         style="fill:#800080;stroke-width:0.264583"
+         x="219.68628"
+         y="50.100727">Full Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="220.04672"
+       y="53.885311"
+       id="text15714"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan15712"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="220.04672"
+         y="53.885311">mit massiv Psychopharmaka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="111.88677"
+       y="123.61068"
+       id="text22721"
+       inkscape:export-filename="C:\Users\marc\rect20246.png"
+       inkscape:export-xdpi="194.48"
+       inkscape:export-ydpi="194.48"><tspan
+         sodipodi:role="line"
+         id="tspan22719"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="111.88677"
+         y="123.61068">ev auch &gt;bisschen&lt; Spirituell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="25.591021"
+       y="40.368931"
+       id="text28212"><tspan
+         sodipodi:role="line"
+         id="tspan28210"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="25.591021"
+         y="40.368931">mehr Aktivität</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="234.3741"
+       y="165.39566"
+       id="text28212-1"><tspan
+         sodipodi:role="line"
+         id="tspan28210-8"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="234.3741"
+         y="165.39566">Zeit</tspan></text>
+  </g>
+</svg>
