@@ -1,0 +1,40 @@
+PROBE_10PX_OTF Bold Version 1.000
+
+Description: PROBE_10PX Bold is a free-to-use non-commercial 10:11 bitmap-based font created by Andrew Sigurow (http://www.facebook.com/andrewsigurow) and released under the SIL Open Font License (OFL) (http://scripts.sil.org/OFL).
+
+Features:
+- OpenType PostScript;
+- base glyphs are 10:11;
+- no subscript/superscript;
+- no strikeout;
+
+Panose:
+- Latin Decorative;
+- derivative;
+- medium weight;
+- monospaced;
+- low contrast;
+- normal sans serif;
+- standard solid fill;
+- no lining;
+- standard topology;
+- extended characters range;
+
+Supported codepages:
+- 1252, Latin-1;
+- 1250, Latin-2 (Eastern Europe);
+- 1251, Cyrillic;
+- 1253, Greek;
+- 1254, Turkish;
+- 1257, Windows Baltic;
+- Mac Roman;
+
+Usage:
+- use at 10pt (or multiple of 10);
+- anti-alias off;
+
+DONATIONS TO THE PROJECT:
+http://bit.ly/donate_to_probe_10px
+
+https://www.facebook.com/andrewsigurow
+Copyright © 2014 Andrew Sigurow. All rights reserved.

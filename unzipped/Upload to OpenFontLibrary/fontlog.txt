@@ -1,0 +1,39 @@
+FONTLOG for the SymLogiDINs font family
+
+This file provides detailed information on the SymLogiDINs Font Software.
+This information should be distributed along with the SymLogiDINs fonts and any derivative works.
+
+Basic Font Information----------
+
+SymLogiDINs is a Unicode typeface family that supports all languages that
+use the Latin script and its variants, and could be expanded to support other
+scripts.
+More specifically, this release supports the following Unicode ranges, but is not complete:
+Basic Latin, Latin-1 Supplement, Latin Extended-A.
+
+This release contains two fonts: SymLogiDIN-Voice and SymLogiDIN-Thing.
+The fonts are based on a modification and amulgation of the fonts OSP-Logisoso and OSP-DIN, in symbiosis with a parallel text.
+It is part of a research project that investigates the status of an art object in relation to dispersal by artists. Documentation about this project is available at: 
+http://www.symbiotext.net and http://wvrijn.wordpress.com/
+The Fonts are created by Walter van Ryn 2012 with FontForge 2.0 (http://fontforge.sf.net)
+
+Copyright----------
+
+Copyright (c) 2012 Walter van Rijn. 
+This font software is licenced under the SIL Open Font Licence, Version 1.1. (http://scripts.sil.org/OFL)
+This font is a modification and amulgation of the fonts OSP-Logisoso and OSP-DIN.(http://openfontlibrary.org)  
+OSP-Logisoso font copyright (c) 2011 Mathieu Gabiot Brussels; 
+OSP-DIN copyright (c) 2011 OSP (http://ospublish.constantvzw.org).
+
+
+Feel free to contribute to this font, by modifying or adding glyphs. To contact the author please go to his website:
+http://www.symbiotext.net and http://wvrijn.wordpress.com
+
+ChangeLog---------
+
+25-08-2012 Created (The creation date shown in the section 'Dates' comes from the Logisoso Font.)
+
+31-08-2012 Added Latin-1 Supplement and Latin extended A. Most of... This in response to the making of the books TITLE(date).
+http://lulu.com/spotlight/vvvr
+
+27-09-2012 rectified a few inconsistencies and mistakes.

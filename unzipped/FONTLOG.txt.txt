@@ -1,0 +1,9 @@
+FONTLOG for Monodeco fonts
+
+A geometric monospaced typeface inspired by the 1920s/1930s but with a modern twist.
+
+Monodeco Copyright (c) 2015, Joshua Deakin, www.joshuadeakin.com, this Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+N: Joshua Deakin
+E: contact@joshuadeakin.com
+W: http://www.joshuadeakin.com
